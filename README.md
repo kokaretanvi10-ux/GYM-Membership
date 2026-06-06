@@ -6,8 +6,7 @@ This project presents an interactive Gym Member Dashboard built using Power BI. 
 
 It helps gym owners and managers make data-driven decisions to improve customer engagement, retention, and revenue.
 
-
-📎 File Included
+📷 Dashboard Preview - https://www.linkedin.com/feed/update/urn:li:activity:7468946977301569536/
 
 
 🎯 Objectives
